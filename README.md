@@ -208,12 +208,9 @@ The application is fully responsive with breakpoints for:
 npm run build
 ```
 
-The built files will be in the `dist/` directory, ready for deployment to any static hosting service like:
+The built files will be in the `dist/` directory, deployed to static hosting service on {Vercel}
+the link:
 
-- Vercel
-- Netlify
-- GitHub Pages
-- AWS S3
 
 ## 🤝 Contributing
 
@@ -234,4 +231,5 @@ Created by AbdElRahman Saad-ElDin for the ITI Frontend React course.
 ---
 
 **Byte & Bite** - Where culinary artistry meets exceptional service.
+
 
