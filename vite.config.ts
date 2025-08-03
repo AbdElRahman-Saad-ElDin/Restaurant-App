@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
   plugins: [react()],
-  base: process.env.VITE_BASE_PATH || "/Restaurant-App",
+  base: process.env.VITE_BASE_PATH || "/restaurant_app",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
