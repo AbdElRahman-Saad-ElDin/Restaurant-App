@@ -229,8 +229,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ for the ITI Frontend preparation course.
+Created by AbdElRahman Saad-ElDin for the ITI Frontend React course.
 
 ---
 
 **Byte & Bite** - Where culinary artistry meets exceptional service.
+
