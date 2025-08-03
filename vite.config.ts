@@ -11,6 +11,7 @@ export default defineConfig(({ mode }) => ({
   plugins: [react(), mode === "development" && componentTagger()].filter(
     Boolean
   ),
+  base: process.env.VITE_BASE_PATH || "/Restaurant-App",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
